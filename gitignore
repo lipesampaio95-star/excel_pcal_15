@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# Dados locais
+*.pdf
+*.xlsx
+*.csv
